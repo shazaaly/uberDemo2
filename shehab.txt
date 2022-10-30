@@ -1,0 +1,6 @@
+What are the three building blocks to use when designing algorithms?
+
+Three blocks are : sequential, selection, iterative.
+What is the keyword used to declare variable ?
+
+Var is the keyword used to declare variables.
