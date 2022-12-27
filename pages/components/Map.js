@@ -6,7 +6,7 @@ import * as mapBoxGl from 'mapbox-gl';
 
 
 mapboxgl.accessToken =
-    'pk.eyJ1Ijoic2hhemFhbHkiLCJhIjoiY2w1aGZoOGRwMDhoaTNkdGVrbTd1NHc0OCJ9.96UDG49EaqVkC5a1Vo_Syg'
+    'pk.eyJ1Ijoic2hhemFhbHkiLCJhIjoiY2xjNjZ2N3M3MDVhbzN3cDJ4ZWJ5cDRsaSJ9.OoyjWu42pVNU0Rf0dmYw0w'
 
     // mapBoxGl.setRTLTextPlugin('https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.0/mapbox-gl-rtl-text.js', () => { });
 
